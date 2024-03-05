@@ -22,3 +22,7 @@ This is a demo collection to practice using CB-GH. I hope to learn how:
 ## Collection History
 
 This is a paragraph about the history of the collection.
+
+
+
+{% include feature/image.html objectid="demo_001" width="75" %}
