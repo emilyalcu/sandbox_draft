@@ -23,4 +23,4 @@ This is a demo collection to practice using CB-GH. I hope to learn how:
 
 This is a paragraph about the history of the collection.
 
- {% include feature/image.html objectid="https://www.pexels.com/photo/white-and-grey-kitten-on-brown-and-black-leopard-print-textile-45201/" width="75" alt="Frank B. Robinson at the Organ" %}
+
