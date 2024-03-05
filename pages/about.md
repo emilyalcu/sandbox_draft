@@ -25,4 +25,4 @@ This is a paragraph about the history of the collection.
 
 
 
-{% include feature/image.html objectid="demo_001" width="75" %}
+{% include [feature/image.html](https://www.pexels.com/photo/white-and-grey-kitten-on-brown-and-black-leopard-print-textile-45201/)https://www.pexels.com/photo/white-and-grey-kitten-on-brown-and-black-leopard-print-textile-45201/ objectid="demo_001" width="75" %}
